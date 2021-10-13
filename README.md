@@ -14,14 +14,17 @@ In this project the goal is to create a desktop application which fulfil the nee
 
 ## Application Images
 <p>
-<a href="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/01.png" target="_blank">
-<img src="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/01.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube.png" target="_blank">
+<img src="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube.png" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/02.png" target="_blank">
-<img src="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/02.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube_arama.png" target="_blank">
+<img src="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube_arama.png" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/03.png" target="_blank">
-<img src="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/03.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube_fav.png" target="_blank">
+<img src="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube_fav.png" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube_video.png" target="_blank">
+<img src="https://github.com/CagatayGumus/React-Youtube-Project/blob/main/images/youtube_video.png" width="200" style="max-width:100%;"></a>
 </p>
 
 
