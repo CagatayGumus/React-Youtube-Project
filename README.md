@@ -1,5 +1,5 @@
 
-# React Youtube Project
+# Youtube-API Project
 
 In this project the goal is to create a desktop application which fulfil the needs of a "Water Sale" program by using Java, SQLite and JFrame. Project aims to establish the communication between the Customer and the Seller.
 
