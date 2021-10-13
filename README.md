@@ -1,7 +1,6 @@
 
 # Youtube-API Project
-
-In this project the goal is to create a desktop application which fulfil the needs of a "Water Sale" program by using Java, SQLite and JFrame. Project aims to establish the communication between the Customer and the Seller.
+With Youtube API, users can list the songs they are looking for, play them, take them to favorites and extract them.
 
 ## Languages and Technologies Used in this Project
 
